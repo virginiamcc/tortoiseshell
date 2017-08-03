@@ -1,0 +1,14 @@
+/* Basic styles
+---------------------------------*/
+
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+/* Nav styles
+---------------------------------*/
+nav {
+  background-color: cadetblue;
+}
